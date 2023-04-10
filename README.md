@@ -33,7 +33,7 @@ This code was designed and prepared for the study by:
 <b> Courtenay, L.A. (Submitted)
 Theoretical Reflections on an Optimal Means of Studying 2D Handaxe Morphology </b>
 
-TIDOP research group website: http://tidop.usal.es/
+Please cite this repository as: <b>Courtenay, L.A. (2023) Code for Handaxe Simulations. https://github.com/LACourtenay/Handaxe_Simulation. Accessed: xxxx</b>
 
 ---------------------------------------------------------------------------------------------------
 
