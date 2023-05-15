@@ -25,9 +25,9 @@ plot_theoretical_shapes(1000, shape_params, sample_names = c("O", "C", "sT", "T"
 
 # GMM - 28 Fixed Landmark Analysis ----------------------------------------------------------
 
-dataset <- create_28_lm_dataset(shape_params,
-                                sample_names = c("O", "C", "sT", "T"),
-                                sample_sizes = c(56, 56, 56, 56))
+dataset <- create_experimental_28_lm_dataset(shape_params,
+                                             sample_names = c("O", "C", "sT", "T"),
+                                             sample_sizes = c(56, 56, 56, 56))
 
 # Generalised Procrustes Analysis
 
