@@ -30,7 +30,7 @@ using the different types of sliding procedures for semilandmarks.
 ## <b> Citation </b>
 
 This code was designed and prepared for the study by:
-<b> Courtenay, L.A. (Submitted)
+<b> Courtenay, L.A. (2023)
 Theoretical Reflections on an Optimal Means of Studying 2D Handaxe Morphology </b>
 
 Please cite this repository as: <b>Courtenay, L.A. (2023) Code for Handaxe Simulations. https://github.com/LACourtenay/Handaxe_Simulation. Accessed: xxxx</b>
@@ -38,3 +38,17 @@ Please cite this repository as: <b>Courtenay, L.A. (2023) Code for Handaxe Simul
 ---------------------------------------------------------------------------------------------------
 
 Comments, questions, doubts, suggestions and corrections can all be directed to L. A. Courtenay at the email provided above.
+
+
+---------------------------------------------------------------------------------------------------
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0.
+See the LICENSE file for details.
+
+<b> Copyright (C) 2023 Lloyd Courtenay </b>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, version 3.
